@@ -1,5 +1,4 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using System;
 
 using Tyuiu.PoleschukKR.Sprint0.Task2.V0.Lib;
 
